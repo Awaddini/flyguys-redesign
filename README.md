@@ -1,6 +1,6 @@
 # flyguys
 
-> flyguys revamp
+> Flyguys redesign
 
 ## Build Setup
 
